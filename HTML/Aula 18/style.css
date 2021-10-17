@@ -1,0 +1,39 @@
+html{
+    font-size:50px; 
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* article#pai {
+    width: 100vw;
+    height: 100vh;
+    padding: 5px;
+    background-color: cornflowerblue;
+    font-size: 20px;
+}
+
+article#pai p#filho{
+    width: 100%;
+    height: auto;
+    background-color: cyan;
+    font-size: 1em;
+} */
+
+article#pai {
+    width: 100vw;
+    height: 100vh;
+    padding: 5px;
+    background-color: cornflowerblue;
+    
+}
+
+article#pai p#filho{
+    width: 100%;
+    height: auto;
+    background-color: cyan;
+    font-size: 1em;
+}

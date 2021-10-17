@@ -1,0 +1,16 @@
+// criando objeto por função, function:
+//objeto instanciado usamos o NEW:
+// 
+//function Carros(modelo, marca, ano){
+//     this.modelo = modelo;
+//     this.modelo = marca;
+//     this.modelo = ano;
+// }
+// criando por variavel.
+//let Carros = {
+//     'modelo' : 'modelo';
+//     'marca': 'marca';
+//     'ano': 'ano';
+// }
+//prototype: herança entre objetos no Java.
+//

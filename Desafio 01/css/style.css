@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+header {
+    width: 100%;
+    height: 40px;
+    background-color: #212121;
+    
+}
+
+#logo{
+    width:100% ;
+    height:30px;
+    position: absolute;
+    top: 10px;
+    margin-left: 100px;
+    text-align: left;
+    color:white;
+    font-family: Helvetica;
+    font-size: 20px
+}
+#tiacademy {
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Helvetica;
+    background-color: #212121;
+    text-align: center;
+    margin-top: 40px;
+    width: 100%;
+    height: 80px;
+}
+
+.areatexto {
+    margin-top: 250px;
+    margin-left: 600px;
+    width: 700px;
+    height: 200px;
+    border: 1px solid white;
+}
+
+#texto{
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 25px;
+    line-height: 16px;
+    text-align: justify;
+    padding: 8px;
+    width: 250px;
+    height: 100px;
+    font-family: helvetica;
+    font-size: 12px;
+    background-color: ghostwhite;  
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    margin: 0 auto;
+    width: 100%;
+    height: 80px;
+    background-color: #212121;
+}
+nav#menu {
+    position: relative;
+    top: 10px;
+    right:100px;
+    width: 100%;
+    height: 30px;
+    text-align: right;          
+}
+nav#menu > .item_menu {
+    text-decoration: none;
+    position: relative;
+    margin: 10px;
+    width: 100%;
+    height: 20px;
+    font-family: helvetica;
+    font-size: 20px;
+    color: white;   
+}
+nav#menu > .item_menu:hover {
+   
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    text-decoration: none;
+    color: whitesmoke;
+    background: tomato;
+}   
+#contato{
+    text-align: justify;
+    font-size: 20px;
+    font-family: helvetica;
+    position: relative;
+    margin-left: 400px;
+    margin-top: 80px;
+    border:1px solid black;
+    border-radius: 5px;
+    width: 250px;
+    height: 30px;
+}
+
+    

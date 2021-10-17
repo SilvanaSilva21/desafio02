@@ -1,0 +1,32 @@
+:root {
+
+    --cor-background-body: rgb(158, 153, 153);    
+
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: var(--cor-background-body);
+
+}
+div#quadrado {
+    margin: 50px auto;
+    width: 300px;
+    height: 300px;
+    border: 2px dotted red;
+    background-color: #fff;
+}
+div#quadrado > div#forma {
+    margin: 50px auto;
+    width: 100px;
+    /* height: 100px; */
+    height: 30px;
+    background-color: chocolate;
+    padding: 10px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    cursor: pointer;
+}

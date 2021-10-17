@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div#forma {
+    margin: 50px auto;
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow: 2px 2px 4px blue;
+}
+
+/* div#forma > #interna {
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+    background-color: brown;
+} */
